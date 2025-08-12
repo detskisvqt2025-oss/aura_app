@@ -1,0 +1,16 @@
+{
+  "strings": {
+    "app_name": "AURA: AI Personal Coach",
+    "tagline": "Daily guidance for health, wealth and mindset.",
+    "cta_get_started": "Get Started",
+    "menu_settings": "Settings",
+    "module_health": "Health & Weight",
+    "module_motivation": "Motivation",
+    "module_horoscope": "Horoscopes & Lucky Numbers",
+    "daily_tip": "Daily Tip",
+    "today_focus": "Today’s Focus",
+    "settings_language": "Language",
+    "settings_privacy": "Privacy Policy",
+    "settings_terms": "Terms of Use"
+  }
+}

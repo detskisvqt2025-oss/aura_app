@@ -1,0 +1,16 @@
+{
+  "strings": {
+    "app_name": "АУРА: Личен AI Консултант",
+    "tagline": "Ежедневни съвети за здраве, пари и мислене.",
+    "cta_get_started": "Старт",
+    "menu_settings": "Настройки",
+    "module_health": "Здраве и тегло",
+    "module_motivation": "Мотивация",
+    "module_horoscope": "Хороскопи и числа",
+    "daily_tip": "Дневен съвет",
+    "today_focus": "Фокус днес",
+    "settings_language": "Език",
+    "settings_privacy": "Поверителност",
+    "settings_terms": "Условия за ползване"
+  }
+}

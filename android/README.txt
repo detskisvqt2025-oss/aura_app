@@ -1,0 +1,1 @@
+Android will be handled by Flutter build.
